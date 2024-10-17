@@ -8,7 +8,7 @@ The Book Management System is a desktop application that allows users to manage 
 - Edit book information.
 - Delete a book from the system.
 - View all books in a collection.
-- Search for books by title or author.
+- Search for books by Name or Description.
   
 ## Technologies Used
 - **Backend**: C#, .NET Core
